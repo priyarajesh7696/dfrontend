@@ -10,7 +10,7 @@ function Courosalcomponents() {
             <Carousel.Item>
                 <img
                     className="w-100  "
-                    src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FDivineBharatChamberfb%2F&psig=AOvVaw3fdkPcYN_ba3_Sv3he5W-3&ust=1726320805453000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIih66uEwIgDFQAAAAAdAAAAABAE"
+                    src="../src/assets/trainings/b2b.jpg"
                     alt="First slide"
                 />
                 
@@ -23,7 +23,7 @@ function Courosalcomponents() {
             <Carousel.Item className=''>
                 <img
                     className="d-block w-100"
-                    src={"/src/assets/trainings/trainings.jpg"}
+                    src="../src/assets/trainings/trainings.jpg"
                     alt="Second slide"
                 />
                 <Carousel.Caption>
@@ -34,7 +34,7 @@ function Courosalcomponents() {
             <Carousel.Item className=''>
                 <img
                     className="d-block w-100"
-                    src={"/src/assets/trainings/foundation.jpg"}
+                    src="../src/assets/trainings/foundation.jpg"
                     alt="Third slide"
                 />
                 <Carousel.Caption>
