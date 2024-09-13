@@ -23,7 +23,7 @@ function Courosalcomponents() {
             <Carousel.Item className=''>
                 <img
                     className="d-block w-100"
-                    src={"../src/assets/trainings/trainings.jpg"}
+                    src={"/src/assets/trainings/trainings.jpg"}
                     alt="Second slide"
                 />
                 <Carousel.Caption>
@@ -34,7 +34,7 @@ function Courosalcomponents() {
             <Carousel.Item className=''>
                 <img
                     className="d-block w-100"
-                    src={"../src/assets/trainings/foundation.jpg"}
+                    src={"/src/assets/trainings/foundation.jpg"}
                     alt="Third slide"
                 />
                 <Carousel.Caption>
