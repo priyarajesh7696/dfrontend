@@ -10,7 +10,7 @@ function Courosalcomponents() {
             <Carousel.Item>
                 <img
                     className="w-100  "
-                    src="../src/assets/trainings/b2b.jpg"
+                    src="../src/assets/trainings/b2b.png"
                     alt="First slide"
                 />
                 
